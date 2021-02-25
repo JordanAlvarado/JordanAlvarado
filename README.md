@@ -1,7 +1,7 @@
 ### Hi there! My name is Jordan Alvarado! 👋
 
-![BairImage](https://img1.wsimg.com/isteam/ip/6db2c604-5031-4aba-9f1a-d8db683f2be1/IMG-4564.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,m,cg:true)
 <!--
+![BairImage](https://img1.wsimg.com/isteam/ip/6db2c604-5031-4aba-9f1a-d8db683f2be1/IMG-4564.jpeg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,m,cg:true)
 **JordanAlvarado/JordanAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
